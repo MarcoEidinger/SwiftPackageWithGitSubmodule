@@ -1,0 +1,3 @@
+[submodule "SubmoduleContent"]
+	path = SubmoduleContent
+	url = https://github.com/MarcoEidinger/MarcoEidinger
